@@ -1,2 +1,2 @@
-# Strivers-A2Z-DSA-sheet-
+# DSA-Python-Practice
 My DSA practice solutions 
